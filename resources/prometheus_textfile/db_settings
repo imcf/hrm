@@ -1,0 +1,4 @@
+db_host="localhost"
+db_name="hrm"
+db_user="hrm_ro"
+db_password="6AuzeeVm0vVH"
